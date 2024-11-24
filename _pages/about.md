@@ -16,7 +16,7 @@ I will complete my undergraduate studies at the [School of Physics](https://spe.
 
 I have also participated in numerous experimental courses, including Fundamental Physics Experiments, Fundamental Physics Design Experiments, Modern Physics Experiments, Electronic Technology Experiments, Comprehensive Electronic Design Experiments, Physics Specialized Experiments, Optical Information Specialized Experiments, Physics Independent Design Experiments, and Optical Information Independent Design Experiments. These experiences have honed my skills in both experimental techniques and programming.
 
-The research projects I have undertaken cover a broad range of topics, such as superconducting quantum circuits, quantum optics, ultracold atoms, surface physics, magnetic metasurfaces, and femtosecond laser micro-nano fabrication. Reports and outcomes from these projects can be found under the "Sharing" section of this website.
+The research projects I have undertaken cover a broad range of topics, such as superconducting quantum circuits, quantum optics, ultracold atoms, surface physics, magnetic metasurfaces, and femtosecond laser micro-nano fabrication. Reports and outcomes from these projects can be found under the "[Sharing](https://shangrunlu.github.io/teaching/)" section of this website.
 
 Purpose of This Website
 ======
