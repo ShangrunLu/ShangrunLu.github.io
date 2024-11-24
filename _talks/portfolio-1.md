@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Group Activity"
+excerpt: "Highlights from our research group's team-building activity on November 20, 2024<br/><img src='/images/Group_dating.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+On November 20, 2024, our research group held a delightful team-building activity. We had engaging conversations, shared laughs, and enjoyed a wonderful atmosphere together. It was a great opportunity to strengthen bonds and create lasting memories.
