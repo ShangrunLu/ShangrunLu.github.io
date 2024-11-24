@@ -9,16 +9,14 @@ main:
     url: /publications/
 
   - title: "Life"
-    url: /life/    
+    url: /talks/    
 
   - title: "Sharing"
-    url: /sharing/    
+    url: /teaching/    
     
   - title: "Group"
-    url: /group/
+    url: /portfolio/
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  
