@@ -9,13 +9,13 @@ main:
     url: /publications/
 
   - title: "Life"
-    url: /talks/    
+    url: /Life/    
 
   - title: "Sharing"
-    url: /teaching/    
+    url: /Sharing/    
     
   - title: "Group"
-    url: /portfolio/
+    url: /Group/
     
   - title: "CV"
     url: /cv/
