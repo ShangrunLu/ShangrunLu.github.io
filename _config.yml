@@ -92,6 +92,8 @@ portfolio_category:
     title: 'Group Members'
   photo:
     title: 'Group Photos'
+  friend:
+    title: 'My Friends'
 
 
 # Site Settings
