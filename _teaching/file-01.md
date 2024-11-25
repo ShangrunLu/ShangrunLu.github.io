@@ -8,4 +8,4 @@ date: 2023
 location: "City, Country"
 ---
 
-[Download PDF](http://ShangrunLu.github.io/files/美赛2330197paper.pdf)
+[Download PDF]('http://ShangrunLu.github.io/files/美赛2330197paper.pdf')
