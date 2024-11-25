@@ -37,9 +37,9 @@ Honors and Awards
 - **2021.11**: Second Prize in CUPT Campus Selection Competition, Sun Yat-sen University  
 - **2022.09**: Honorable Mention in the Guangdong Division of the National Mathematical Contest in Modeling  
 - **2023.04**: Honorable Mention in the Mathematical Contest in Modeling (MCM), USA  
-- **2023.07**: First Prize in the 9th National Undergraduate Physics Experiment Competition (Teaching Category)  
+- **2023.07**: First Prize in the 9th China Undergraduate Physics Experiment Competition (Teaching Category)  
 - **2023.11**: First Prize in the 24th South China Undergraduate Physics Experiment Design Competition  
-- **2023.12**: First Prize in the 9th National Undergraduate Physics Experiment Competition (Innovation Category)  
+- **2023.12**: First Prize in the 9th China Undergraduate Physics Experiment Competition (Innovation Category)  
 - **2024.01**: Second Prize in the Guangdong Division of the National Mathematical Contest in Modeling  
 
 **Research Awards**  
