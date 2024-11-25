@@ -4,7 +4,7 @@ collection: teaching
 type: "Academic Competition"
 permalink: /sharing/Research on Pricing and Restocking Strategy Problems Based on Time Series Analysis and Greedy Algorithm
 venue: "China Undergraduate Mathematical Contest in Modeling"
-date: 2023-9-10
+date: 2023
 location: "City, Country"
 category: bisai
 ---
