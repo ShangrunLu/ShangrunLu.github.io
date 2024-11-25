@@ -1,6 +1,6 @@
 ---
 title: "Vinkey Zoah"
-excerpt: "He is a master's student in our research group, specializing in micromagnetic simulations and Lorentz transmission electron microscopy studies.<br/><img src='/images/zwk.jpg'>"
+excerpt: "Vinkey Zoah is a master’s student in our research group and also serves as the Director of Office 315, specializing in micromagnetic simulations and Lorentz transmission electron microscopy studies.<br/><img src='/images/zwk.jpg'>"
 collection: portfolio
 ---
 
