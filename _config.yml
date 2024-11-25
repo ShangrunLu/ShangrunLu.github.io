@@ -95,6 +95,17 @@ portfolio_category:
   friend:
     title: 'My Friends'
 
+# files Category 
+files_category:
+  bisai:
+    title: 'Academic Competition'
+  kecheng:
+    title: 'Course Papers'
+  keyan:
+    title: 'Scientific Research'
+  diaoyan:
+    title: 'Research Report'
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
