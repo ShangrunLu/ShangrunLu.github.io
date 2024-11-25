@@ -1,7 +1,7 @@
 ---
 title: "Lynn"
-excerpt: "She is lsantt, a super cute girl. Her greatest wish is to become a scavenger. Bless her!<br/><img src='/images/lht.jpg'>"
+excerpt: "She is my girlfriend, a lovely, kind, and optimistic person.<br/><img src='/images/zn.jpg'>"
 collection: portfolio
 ---
 
-She is lsantt, a super cute girl. Her greatest wish is to become a scavenger. Bless her!
+She is my girlfriend, and we were classmates during our undergraduate studies. We share a deep and loving relationship, always supporting and caring for each other, promising to stay together forever.
