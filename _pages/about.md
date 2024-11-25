@@ -28,7 +28,7 @@ Honors and Awards
 - **2023.11**: First-Class Outstanding Student Scholarship, Sun Yat-sen University  
 - **2023.11**: Yan Jici Class Scholarship, Institute of Physics, Chinese Academy of Sciences  
 - **2024.04**: Xiaomi Scholarship (University Donated Scholarship)  
-- **2024**: National Scholarship  
+- **2024**: China National Scholarship 
 - **2024**: First-Class Outstanding Student Scholarship, Sun Yat-sen University  
 
 **Competition Awards**  
