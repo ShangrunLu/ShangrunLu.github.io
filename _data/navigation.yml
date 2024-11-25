@@ -9,10 +9,10 @@ main:
     url: /publications/
 
   - title: "Life"
-    url: /talks/    
+    url: /life/    #talks
 
   - title: "Sharing"
-    url: /teaching/    
+    url: /sharing/   # teaching
     
   - title: "Relationship"
     url: /relationship/
