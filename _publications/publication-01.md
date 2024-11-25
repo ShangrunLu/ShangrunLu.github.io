@@ -3,7 +3,7 @@ title: "Algorithm for Diffraction of Complex Apertures Based on Ear-Clipping Met
 collection: publications
 category: manuscripts
 permalink: /publication/publication-01
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Diffraction patterns of complex apertures are computed using the ear-clipping method, which approximates apertures by dividing them into triangles and superimposing their individual diffraction fields. The method's feasibility and accuracy are verified through experimental setups and analysis of both regular polygonal and fractal apertures.'
 date: 2024
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/daxuewuli.pdf'
