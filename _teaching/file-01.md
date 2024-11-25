@@ -6,6 +6,7 @@ permalink: /teaching/Used Sailboats Pricing Model Based on Decision Tree Regress
 venue: "Mathematical Contest in Modeling (MCM)"
 date: 2023-3-10
 location: "City, Country"
+category: bisai
 ---
 
 [Download PDF](https://ShangrunLu.github.io/files/MCMpaper.pdf)
