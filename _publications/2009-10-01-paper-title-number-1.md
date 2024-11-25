@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Algorithm for Diffraction of Complex Apertures Based on Ear-Clipping Method"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
