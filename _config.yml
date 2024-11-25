@@ -90,6 +90,8 @@ portfolio_category:
     title: 'family'
   group:
     title: 'Group Members'
+  photp:
+    title: 'Group Photos'
 
 
 # Site Settings
