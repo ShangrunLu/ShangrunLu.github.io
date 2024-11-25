@@ -6,6 +6,7 @@ permalink: /teaching/Research on Pricing and Restocking Strategy Problems Based 
 venue: "China Undergraduate Mathematical Contest in Modeling"
 date: 2023-9-10
 location: "City, Country"
+category: bisai
 ---
 
 [Download PDF](http://ShangrunLu.github.io/files/shumoguosai.pdf)
