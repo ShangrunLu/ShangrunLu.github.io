@@ -1,7 +1,7 @@
 ---
-title: "A Day with My Grandfather in Weihai"
-excerpt: "Spending quality time with my grandfather in Weihai on February 3, 2024.<br/><img src='/images/11.jpg'>"
+title: "A Day with My Girlfriend in Shunde"
+excerpt: "Enjoying a delightful day with my girlfriend in Shunde on January 13, 2024.<br/><img src='/images/13.jpg'>"
 collection: portfolio
 ---
 
-On February 3, 2024, I had the pleasure of spending a meaningful day with my grandfather in Weihai. We enjoyed the serene coastal views, shared stories, and created cherished memories together. It was a day filled with warmth, love, and family bonding.
+On February 13, 2024, my girlfriend and I spent a delightful day exploring Shunde. Known for its rich culinary culture and scenic beauty, we enjoyed delicious local cuisine and visited some of the charming attractions. It was a day filled with happiness, love, and unforgettable experiences.
