@@ -2,9 +2,9 @@
 title: "Used Sailboats Pricing Model Based on Decision Tree Regression with AdaBoost"
 collection: teaching
 type: "Academic Competition"
-permalink: /teaching/Used Sailboats Pricing Model Based on Decision Tree Regression with AdaBoost
+permalink: /sharing/Used Sailboats Pricing Model Based on Decision Tree Regression with AdaBoost
 venue: "Mathematical Contest in Modeling (MCM)"
-date: 2023-3-10
+date: 2023
 location: "City, Country"
 category: bisai
 ---
