@@ -1,9 +1,9 @@
 ---
-title: "Lynn"
-excerpt: "She is my girlfriend, a lovely, kind, and optimistic girl.<br/><img src='/images/zn.jpg'>"
+title: "Me, My Father, and My Mother"
+excerpt: "A tribute to my supportive parents, who have been with me every step of the way.<br/><img src='/images/three.jpg'>"
 collection: portfolio
-venue: 'family'
+venue: "family"
 category: family
 ---
 
-She is my girlfriend, and we were classmates during our undergraduate studies. We share a deep and loving relationship, always supporting and caring for each other, promising to stay together forever.
+My parents are incredibly responsible and supportive. They have provided immense encouragement and assistance throughout my academic journey, both materially and emotionally. Their unwavering belief in me has been a cornerstone of my achievements, and I am deeply grateful for their love and guidance.
