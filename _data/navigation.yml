@@ -8,11 +8,12 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Life"
-    url: /life/    #talks
 
   - title: "Sharing"
     url: /sharing/   # teaching
+
+  - title: "Life"
+    url: /life/    #talks
     
   - title: "Relationship"
     url: /relationship/
