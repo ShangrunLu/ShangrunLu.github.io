@@ -6,7 +6,7 @@ permalink: /publication/Algorithm for Diffraction of Complex Apertures Based on 
 excerpt: 'The analytical solution of diffraction for complex structures was studied using machine vision and the ear-clipping method.'
 date: 2024-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/daxuewuli.pdf'
+paperurl: 'http://ShangrunLu.github.io/files/daxuewuli.pdf'
 citation: 'Shangrun Lu.eprint'
 ---
 
