@@ -1,13 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Used Sailboats Pricing Model Based on Decision Tree Regression with AdaBoost"
 collection: teaching
 type: "学科竞赛"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+venue: "美国大学生数学建模竞赛"
+date: 2023
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+[获取PDF](http://ShangrunLu.github.io/files/美赛2330197paper.pdf)
