@@ -4,7 +4,7 @@ collection: teaching
 type: "Academic Competition"
 permalink: /sharing/research-on-diffraction-of-complex-structures-ear-clipping
 venue: "China Undergraduate Physics Experiment Competition"
-date: 2023-10-1
+date: 2023-1-1
 location: "City, Country"
 category: bisai
 ---
