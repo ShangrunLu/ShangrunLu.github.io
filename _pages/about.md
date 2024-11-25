@@ -18,6 +18,34 @@ I have also participated in numerous experimental courses, including Fundamental
 
 The research projects I have undertaken cover a broad range of topics, such as superconducting quantum circuits, quantum optics, ultracold atoms, surface physics, magnetic metasurfaces, and femtosecond laser micro-nano fabrication. Reports and outcomes from these projects can be found under the "[Sharing](https://shangrunlu.github.io/teaching/)" section of this website.
 
+Honors and Awards
+======
+
+**Comprehensive Awards**  
+- **2020.12**: Second Prize in Zibo City Unified Examination Scholarship  
+- **2021.05**: Provincial Outstanding Student in Shandong Province  
+- **2022.12**: First-Class Outstanding Student Scholarship, Sun Yat-sen University  
+- **2023.11**: First-Class Outstanding Student Scholarship, Sun Yat-sen University  
+- **2023.11**: Yan Jici Class Scholarship, Institute of Physics, Chinese Academy of Sciences  
+- **2024.04**: Xiaomi Scholarship (University Donated Scholarship)  
+- **2024**: National Scholarship  
+- **2024**: First-Class Outstanding Student Scholarship, Sun Yat-sen University  
+
+**Competition Awards**  
+- **2019.05**: First Prize in Zibo City Youth Science and Technology Innovation Competition  
+- **2019.06**: First Prize in the 34th Shandong Province Youth Science and Technology Innovation Competition  
+- **2021.11**: Second Prize in CUPT Campus Selection Competition, Sun Yat-sen University  
+- **2022.09**: Honorable Mention in the Guangdong Division of the National Mathematical Contest in Modeling  
+- **2023.04**: Honorable Mention in the Mathematical Contest in Modeling (MCM), USA  
+- **2023.07**: First Prize in the 9th National Undergraduate Physics Experiment Competition (Teaching Category)  
+- **2023.11**: First Prize in the 24th South China Undergraduate Physics Experiment Design Competition  
+- **2023.12**: First Prize in the 9th National Undergraduate Physics Experiment Competition (Innovation Category)  
+- **2024.01**: Second Prize in the Guangdong Division of the National Mathematical Contest in Modeling  
+
+**Research Awards**  
+- **2024.03**: Outstanding Completion of the National Undergraduate Innovation and Entrepreneurship Project  
+- **2024**: Academic Innovation Scholarship  
+
 Purpose of This Website
 ======
 
