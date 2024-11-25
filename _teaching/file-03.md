@@ -3,7 +3,7 @@ title: "Research on Diffraction of Complex Structures Based on Ear-Clipping Meth
 collection: teaching
 type: "Academic Competition"
 permalink: /sharing/research-on-diffraction-of-complex-structures-ear-clipping
-venue: "China Undergraduate Physics Experiment Competition"
+venue: "China Undergraduate Experiment Physics Competition"
 date: 2023-1-1
 location: "City, Country"
 category: bisai
