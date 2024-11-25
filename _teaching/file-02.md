@@ -8,4 +8,4 @@ date: 2023
 location: "City, Country"
 ---
 
-[Download PDF](http://ShangrunLu.github.io/files/基于时间序列分析与贪心算法的定价与补货策略问题研究.pdf)
+[Download PDF](http://ShangrunLu.github.io/files/shumoguosai.pdf)
