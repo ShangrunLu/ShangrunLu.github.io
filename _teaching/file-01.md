@@ -8,4 +8,4 @@ date: 2023
 location: "City, Country"
 ---
 
-[Download PDF](https://ShangrunLu.github.io/files/美赛2330197paper.pdf)
+[Download PDF](https://ShangrunLu.github.io/files/MCMpaper.pdf)
